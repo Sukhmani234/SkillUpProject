@@ -13,7 +13,7 @@ function LoginPage() {
       <div className="loginPageContentBaseContainer">
         <div className="loginPageContentTitleContainer">
           <h1> SkillUp </h1>
-          <h4>WELCOME</h4>
+          <h4> WELCOME </h4>
         </div>
         <div className="loginPageContentInputContainer">
           <CustomInput
